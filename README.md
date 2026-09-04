@@ -1,4 +1,4 @@
-# Antonio Johnson
+# SwooshJ-SecAI
 
 **Security Engineer | AI Engineer**
 
@@ -6,7 +6,7 @@
 
 ## About
 
-Security practitioner with 7+ years in IT and cybersecurity, now building AI-powered tools that solve real operational problems. My work sits at the intersection of threat intelligence, security automation, and applied AI — turning manual, repetitive security workflows into intelligent systems that scale.
+My work sits at the intersection of threat intelligence, security automation, and applied AI — turning manual, repetitive security workflows into intelligent systems that scale.
 
 ---
 
