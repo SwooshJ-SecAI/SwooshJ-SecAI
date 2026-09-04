@@ -75,10 +75,4 @@ Security practitioner with 7+ years in IT and cybersecurity, now building AI-pow
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SwooshJ-SecAI)
-
----
-
 <sub>This profile represents personal projects and independent work. Views and tools shared here are my own.</sub>
