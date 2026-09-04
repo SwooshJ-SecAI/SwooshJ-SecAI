@@ -6,7 +6,7 @@
 
 ## About
 
-My work sits at the intersection of threat intelligence, security automation, and applied AI — turning manual, repetitive security workflows into intelligent systems that scale.
+Security practitioner with 7+ years in IT and cybersecurity, now building AI-powered tools that solve real operational problems. My work sits at the intersection of threat intelligence, security automation, and applied AI — turning manual, repetitive security workflows into intelligent systems that scale.
 
 ---
 
@@ -77,7 +77,7 @@ My work sits at the intersection of threat intelligence, security automation, an
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajohnson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SwooshJ-SecAI)
 
 ---
 
