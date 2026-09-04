@@ -67,12 +67,6 @@ Security practitioner with 7+ years in IT and cybersecurity, now building AI-pow
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwooshJ-SecAI&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwooshJ-SecAI&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 <sub>This profile represents personal projects and independent work. Views and tools shared here are my own.</sub>
